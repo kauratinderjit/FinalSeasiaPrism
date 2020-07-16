@@ -1,0 +1,6 @@
+framework module Pods_SeasiaNoticeBoardTests {
+  umbrella header "Pods-SeasiaNoticeBoardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

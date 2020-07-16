@@ -1,0 +1,19 @@
+${PODS_ROOT}/Target Support Files/Pods-SeasiaNoticeBoard-SeasiaNoticeBoardUITests/Pods-SeasiaNoticeBoard-SeasiaNoticeBoardUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BSImagePicker/BSImagePicker.framework
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/Hakawai/Hakawai.framework
+${BUILT_PRODUCTS_DIR}/ImageCropper/ImageCropper.framework
+${BUILT_PRODUCTS_DIR}/JJFloatingActionButton/JJFloatingActionButton.framework
+${BUILT_PRODUCTS_DIR}/KMPlaceholderTextView/KMPlaceholderTextView.framework
+${BUILT_PRODUCTS_DIR}/OTPTextField/OTPTextField.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/PaddingLabel/PaddingLabel.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVPinView/SVPinView.framework
+${BUILT_PRODUCTS_DIR}/SwiftPhotoGallery/SwiftPhotoGallery.framework
+${BUILT_PRODUCTS_DIR}/TPKeyboardAvoiding/TPKeyboardAvoiding.framework
+${BUILT_PRODUCTS_DIR}/WMSegmentControl/WMSegmentControl.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework

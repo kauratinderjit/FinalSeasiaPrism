@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>473926750080-86rer9ocbjen5h96od6el7rbm75cvmks.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.473926750080-86rer9ocbjen5h96od6el7rbm75cvmks</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXNxKdOyPgaeMiHdcL_68KObv_eS6VJ7Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>473926750080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.seasia.isms</string>
+	<key>PROJECT_ID</key>
+	<string>seasia-prism</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seasia-prism.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:473926750080:ios:c56e3b659bbc1505dc3b65</string>
+	<key>DATABASE_URL</key>
+	<string>https://seasia-prism.firebaseio.com</string>
+</dict>
+</plist>
